@@ -1,14 +1,16 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+1. `datav1.0.zip` contains the TaxiXNLI dataset:
+  - For both diagnostic and translated experiments train file is same (`train.jsonl`)
+  - translated test set: `test_translated.jsonl`
+  - diagnostic test set: `test_diagnostic.jsonl` 
+      1. "1" and "0" means an examples belongs and does not belong to the category respectively. 
+      2. "-1" means we have not annotated it for that particular category. 
+2. `keywords.txt`: 
+    1. (not used in paper) A list of keywords specific to categories. This was used to see if the equivalent words between English and target languages aligns better after few-shot training. 
+3. `sentences.txt`: 
+    1. Set of sentences, sampled from the translated data (in all languages) 
+    2. This is used to check if the sentences are aligned better after the few-shot training. 
 
 ## Contributing
 
