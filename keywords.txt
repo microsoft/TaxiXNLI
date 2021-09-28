@@ -1,0 +1,275 @@
+front
+back
+distance
+between
+during
+before
+after
+later
+yesterday
+tomorrow
+first
+last
+year
+minutes
+not
+no
+neither
+doesn't
+don't
+won't
+can't
+shouldn't
+nothing
+and
+or
+सामने
+वापस
+दूरी
+के बीच
+दौरान
+इससे पहले
+उपरांत
+बाद में
+बिता कल
+आने वाला कल
+प्रथम
+पिछले
+साल
+मिनट
+नहीं
+न
+न
+नहीं है
+नहीं
+नहीं होगा
+नहीं कर सकते हैं
+नहीं करना चाहिए
+कुछ भी तो नहीं
+तथा
+या
+de face
+retour
+distance
+entre
+pendant
+avant
+après
+plus tard
+hier
+demain
+première
+dernier
+an
+minutes
+ne pas
+ni
+ni
+ne
+ne
+habitude
+ne peut pas
+ne devrait pas
+rien
+et
+ou
+frente
+espalda
+distancia
+Entre
+durante
+antes de
+después
+más tarde
+ayer
+mañana
+primero
+último
+año
+minutos
+no
+ni
+ninguno
+no
+no
+no lo haré
+hipocresía
+no debería
+nada
+y
+o
+mbele
+nyuma
+umbali
+kati
+wakati
+kabla
+baada ya
+baadae
+jana
+kesho
+kwanza
+mwisho
+mwaka
+dakika
+la
+wala
+wala
+haifanyi
+usifanye
+si
+hawawezi
+haipaswi
+hakuna chochote
+na
+au
+фронт
+назад
+расстояние
+между
+в течение
+до
+после
+позже
+вчерашний день
+завтра
+первый
+последний
+год
+минут
+не
+ни
+ни то, ни другое
+не
+не
+не будет
+не могу
+не должен
+ничего
+и
+или же
+سامنے
+پیچھے
+فاصلے
+کے درمیان
+دوران
+پہلے
+کے بعد
+بعد میں
+کل
+کل
+پہلا
+آخری
+سال
+منٹ
+نہیں
+نہ ہی
+نہ ہی
+نہیں کرتا
+مت کرو
+نہیں کریں گے
+نہیں کر سکتے ہیں
+نہیں کرنا چاہئے
+کچھ نہیں
+اور
+یا
+أمامي
+عودة
+مسافة
+ما بين
+أثناء
+قبل
+بعد
+في وقت لاحق
+في الامس
+غدا
+أول
+الاخير
+عام
+الدقائق
+ليس
+ولا
+لا هذا ولا ذاك
+لا
+لا تفعل
+متعود
+لا تستطيع
+لا ينبغي
+لا شيئ
+و
+أو
+trước mặt
+trở lại
+khoảng cách
+giữa
+suốt trong
+trước
+sau
+một lát sau
+hôm qua
+Ngày mai
+Đầu tiên
+Cuối cùng
+năm
+phút
+không phải
+cũng không
+cũng không
+không
+đừng
+sẽ không
+không thể
+không nên
+không có gì
+và
+hoặc là
+面前
+背部
+距离
+之间
+中
+之前
+后
+后来
+昨天
+明天
+第一
+持续
+年
+分钟
+不
+也不
+都不
+不
+别
+惯于
+不能
+不应该
+没有
+和
+要么
+面前
+背部
+距离
+之间
+中
+之前
+后
+后来
+昨天
+明天
+第一
+持续
+年
+分钟
+不
+也不
+都不
+不
+别
+惯于
+不能
+不应该
+没有
+和
+要么
