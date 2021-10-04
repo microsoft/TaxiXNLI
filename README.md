@@ -13,6 +13,7 @@ This repository contains necessary data associated with the [Analyzing the Effec
 3. `sentences.txt`: 
     1. Set of sentences, sampled from the translated data (in all languages) 
     2. This is used to check if the sentences are aligned better after the few-shot training. 
+4. `original/`: This folder contains Hindi, Spanish and Swahili annotations of translated P-H pairs on a small subset of the Translated data.
 
 ## Contributing
 
