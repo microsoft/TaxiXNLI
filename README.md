@@ -1,6 +1,6 @@
-# TaxiXNLI: 
+# TaxiXNLI
 
-This repository contains necessary data associated with the [Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance](https://sites.google.com/view/mrl-2021/program?authuser=0), published in EMNLP 2021 Multilingual Representation Learning workshop.
+This repository contains necessary data associated with the [Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance](https://arxiv.org/abs/2110.02386), published in [EMNLP 2021 Multilingual Representation Learning workshop](https://sites.google.com/view/mrl-2021/program?authuser=0).
 
 1. `datav1.0.zip` contains the TaxiXNLI dataset:
   - For both diagnostic and translated experiments train file is same (`train.jsonl`)
