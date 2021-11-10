@@ -1,6 +1,6 @@
 # TaxiXNLI
 
-This repository contains necessary data associated with the [Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance](https://arxiv.org/abs/2110.02386), published in [EMNLP 2021 Multilingual Representation Learning workshop](https://sites.google.com/view/mrl-2021/program?authuser=0).
+This repository contains necessary data associated with the [Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance](https://aclanthology.org/2021.mrl-1.8/), published in [EMNLP 2021 Multilingual Representation Learning workshop](https://sites.google.com/view/mrl-2021/program?authuser=0).
 
 1. `datav1.0.zip` contains the TaxiXNLI dataset:
   - For both diagnostic and translated experiments train file is same (`train.jsonl`)
@@ -14,6 +14,28 @@ This repository contains necessary data associated with the [Analyzing the Effec
     1. Set of sentences, sampled from the translated data (in all languages) 
     2. This is used to check if the sentences are aligned better after the few-shot training. 
 4. `original/`: This folder contains Hindi, Spanish and Swahili annotations of translated P-H pairs on a small subset of the Translated data.
+
+# Citation
+
+Kindly cite the EMNLP 2021 ACL Anthology version:
+
+```
+@inproceedings{k-etal-2021-analyzing,
+    title = "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance",
+    author = "K, Karthikeyan  and
+      Sathe, Aalok  and
+      Aditya, Somak  and
+      Choudhury, Monojit",
+    booktitle = "Proceedings of the 1st Workshop on Multilingual Representation Learning",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.mrl-1.8",
+    pages = "86--95",
+    abstract = "Multilingual language models achieve impressive zero-shot accuracies in many languages in complex tasks such as Natural Language Inference (NLI). Examples in NLI (and equivalent complex tasks) often pertain to various types of sub-tasks, requiring different kinds of reasoning. Certain types of reasoning have proven to be more difficult to learn in a monolingual context, and in the crosslingual context, similar observations may shed light on zero-shot transfer efficiency and few-shot sample selection. Hence, to investigate the effects of types of reasoning on transfer performance, we propose a category-annotated multilingual NLI dataset and discuss the challenges to scale monolingual annotations to multiple languages. We statistically observe interesting effects that the confluence of reasoning types and language similarities have on transfer performance.",
+}
+```
 
 ## Contributing
 
